@@ -19,6 +19,11 @@ chocolates = [
         "price": 4.99
     },
     {
+        "name": "Dark Chocolate",
+        "image": "https://m.media-amazon.com/images/I/81Rz8SxtiJL.jpg",
+        "price": 10.99
+    },
+    {
         "name": "White Chocolate",
         "image": "https://m.media-amazon.com/images/I/61-pg5u+9pL.jpg",
         "price": 6.49
